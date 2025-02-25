@@ -4,8 +4,6 @@
 
 A simple calculator for Android made with Kotlin and XML.
 
-![project_calculator](https://github.com/user-attachments/assets/39dfc2ef-48a1-427b-a94d-71646a688ca2)
-
 ## Features
 - Basic arithmetic operations (addition, subtraction, multiplication, division)
 - Clean and intuitive user interface
